@@ -1,0 +1,23 @@
+{
+  "name": "whatsforlunch",
+  "version": "0.0.1",
+  "description": "WhatsForLunch - Returns where our team ought to go for lunch, on a given day.",
+  "main": "index.js",
+  "dependencies": {
+    "google-spreadsheet": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoligy/whatsforlunch.git"
+  },
+  "author": "Alex Wilson <a@ax.gy> (https://ax.gy)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoligy/whatsforlunch/issues"
+  },
+  "homepage": "https://github.com/antoligy/whatsforlunch#readme"
+}
